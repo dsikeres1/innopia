@@ -1,0 +1,22 @@
+:root {
+    --primary: #000000;
+    --primary-5: rgba(0, 0, 0, 0.05);
+    --secondary: #254B59;
+    --white-100: #ffffff;
+    --white-50: rgba(255, 255, 255, 0.5);
+
+
+    /*danger*/
+    --danger: #FF0000;
+    --danger-400: #EE4949;
+
+    /*gray*/
+    --gray-100: #F8F8F8;
+    --gray-150: #FAFBFE;
+    --gray-200: #DEDEDE;
+    --gray-300: #CBCBCB;
+    --gray-400: #999999;
+    --gray-500: #6F6F70;
+    --gray-600: #6C757D;
+    --gray-700: #585865;
+}

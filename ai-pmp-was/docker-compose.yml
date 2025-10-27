@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:16.2
+    ports:
+      - "30501:5432"
+    volumes:
+      - db-var_lib_postgresql_data:/var/lib/postgresql/data
+    environment:
+      - TZ=Asia/Seoul
+      - PGTZ=Asia/Seoul
+      - POSTGRES_HOST_AUTH_METHOD=trust
+      - POSTGRES_DB=ai-pmp
+
+volumes:
+  db-var_lib_postgresql_data:
