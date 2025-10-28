@@ -1,0 +1,31 @@
+-- Scene Actor data
+
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (1, '권상우', 247, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (2, '김고은', 248, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (3, '김도훈', 249, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (4, '김재욱', 250, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (5, '김종국', 251, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (6, '김태리', 252, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (7, '류승용', 253, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (8, '류현진', 254, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (9, '박보검', 255, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (10, '박지성', 256, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (11, '서현진', 257, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (12, '손예진', 258, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (13, '송강호', 259, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (14, '송중기', 260, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (15, '수지', 261, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (16, '아이유', 262, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (17, '양세종', 263, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (18, '유재석', 264, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (19, '이동욱', 265, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (20, '이정재', 266, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (21, '전지현', 267, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (22, '조보아', 268, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (23, '조정석', 269, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (24, '주지훈', 270, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (25, '진선규', 271, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (26, '황정민', 272, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (27, '황희찬', 273, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (28, '김수현', 274, NOW());
+INSERT INTO scene_actor (pk, name, image_asset_pk, create_at) VALUES (29, '현빈', 275, NOW());

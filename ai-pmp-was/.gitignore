@@ -15,22 +15,3 @@ tmp
 /ex/py/lorem_picsum.json
 
 database.custom
-
-data/
-/bin/add_himalaya_timestamps.py
-/bin/calculate_movie_similarity.py
-/bin/calculate_movielens_tmdb_similarity.py
-/bin/cleanup_r2_scene_assets.py
-/bin/export_movie_lens_movie_sql.py
-/bin/export_movie_prediction_sql.py
-/bin/export_movie_rating_sql.py
-/bin/export_movie_similarity_sql.py
-/bin/export_movie_sql.py
-/bin/export_movielens_tmdb_similarity_sql.py
-/bin/generate_himalaya_timestamp_sql.py
-/bin/seed_movie_lens_movie.py
-/bin/seed_movie_nlp.py
-/bin/seed_movie_prediction.py
-/bin/seed_movie_rating.py
-/bin/seed_tmdb_movies.py
-/bin/test_tmdb_api.py

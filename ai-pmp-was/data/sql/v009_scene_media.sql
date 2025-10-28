@@ -1,0 +1,31 @@
+-- Scene Media data
+
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (1, '관상', 72, 73, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (2, '관상', 76, 77, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (3, '관상', 84, 85, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (4, '극한직업', 90, 91, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (5, '극한직업 2', 97, 98, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (6, '도깨비', 104, 105, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (7, '도둑들', 109, 110, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (8, '런닝맨 (박지성)', 113, 114, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (9, '런닝맨', 119, 120, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (10, '런닝맨', 125, 126, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (11, '런닝맨', 130, 131, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (12, '무빙', 136, 137, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (13, '베테랑2', 142, 143, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (14, '사랑의 불시착', 147, 148, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (15, '스물다섯 스물하나', 153, 154, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (16, '엑시트', 160, 161, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (17, '은밀하게 위대하게', 168, 169, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (18, '이두나', 173, 174, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (19, '중증외상센터', 178, 179, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (20, '태양의 후예', 184, 185, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (21, '폭삭', 193, 194, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (22, '하얼빈', 205, 206, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (23, '하얼빈', 211, 212, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (24, '히트맨', 215, 216, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (25, '히말라야', 221, 222, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (26, '도깨비', 223, 224, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (27, '사랑의 온도', 227, 228, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (28, '사랑의 온도', 236, 237, NOW());
+INSERT INTO scene_media (pk, title, video_asset_pk, thumbnail_asset_pk, create_at) VALUES (29, '아저씨', 244, 245, NOW());
